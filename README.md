@@ -4,6 +4,13 @@ align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNp
 </p>
 
 <h1 align="center"> Prince Cedrick Ancheta</h1>
+
+### I’m a Filipino IT student with a strong interest in technology, problem-solving, and continuous learning. I’m building my skills step by step by exploring how systems, code, and ideas come together to create practical solutions for real-life situations.
+
+### As a student, I work with different areas of IT, including programming, system fundamentals, and digital tools. I enjoy learning through hands-on practice—starting with simple concepts and gradually improving through experimentation and experience.
+
+### My goal is to keep improving my technical skills and eventually build systems or applications that make everyday tasks easier and more efficient—one project and one line of code at a time.
+
 <h3 align="center">ITCS Student | Aspiring IT Professional</h3>
 
 --- 
@@ -49,5 +56,6 @@ align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNp
 # Contact me in
 <p align="center"> <a href="https://www.facebook.com/share/17WxbRDdLR/" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/256/social-facebook-box-blue-icon.png" alt="Facebook" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/princecedrick_a?igsh=MWc5cnVleDRycmQxbg%3D%3D" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" alt="Instagram" /> </a> &nbsp;&nbsp; 
 <a href="https://discord.com/users/893694502760509561" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" /> </a> 
+&nbsp;&nbsp; <a href="mailto:princecedrickancheta169@gmail.com" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" /> </a>
   
 ---
