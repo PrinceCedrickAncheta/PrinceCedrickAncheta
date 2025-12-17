@@ -49,7 +49,7 @@ I aim to continuously improve my technical abilities and, in the future, create 
 
 ---
 # Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princecedrickancheta169-gif&show_icons=true&locale=en" alt="princecedrickancheta169-gif" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceCedrickAncheta&show_icons=true&locale=en" alt="PrinceCedrickAncheta" /></p>
 
 ---
 
