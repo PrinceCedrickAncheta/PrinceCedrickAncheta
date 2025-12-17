@@ -1,5 +1,8 @@
 # Hi There 👋
-<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNpam0yc3N4d3JtaXFndnAxc3JsZTFpcW93a2k3bDNwa3dmajJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzu5DA3RXa4kF1L8ca/giphy.gif" width="400" alt="Coding GIF">  </p>
+<p
+align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNpam0yc3N4d3JtaXFndnAxc3JsZTFpcW93a2k3bDNwa3dmajJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzu5DA3RXa4kF1L8ca/giphy.gif" width="400" alt="Coding GIF"> 
+</p>
+
 <h1 align="center"> Prince Cedrick Ancheta</h1>
 <h3 align="center">ITCS Student | Aspiring IT Professional</h3>
 
