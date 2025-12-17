@@ -3,13 +3,13 @@
 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNpam0yc3N4d3JtaXFndnAxc3JsZTFpcW93a2k3bDNwa3dmajJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzu5DA3RXa4kF1L8ca/giphy.gif" width="400" alt="Coding GIF"> 
 </p>
 
-<h1 align="center"> Prince Cedrick Ancheta</h1>
+<h1 align="center"> Prince Cedrick Ancheta</h1
+                                            
+I’m a Filipino IT student who’s passionate about technology and solving problems through creative thinking. I’m steadily developing my skills by learning how systems, code, and ideas work together to turn concepts into real world solutions. 
 
-### I’m a Filipino IT student with a strong interest in technology, problem-solving, and continuous learning. I’m building my skills step by step by exploring how systems, code, and ideas come together to create practical solutions for real-life situations.
+My studies expose me to various areas of IT, including programming, system foundations, and digital tools. I prefer learning by doing starting small, experimenting, and gaining experience through practice. 
 
-### As a student, I work with different areas of IT, including programming, system fundamentals, and digital tools. I enjoy learning through hands-on practice—starting with simple concepts and gradually improving through experimentation and experience.
-
-### My goal is to keep improving my technical skills and eventually build systems or applications that make everyday tasks easier and more efficient—one project and one line of code at a time.
+I aim to continuously improve my technical abilities and, in the future, create systems or applications that simplify daily tasks and improve efficiency, one project and one line of code at a time.
 
 <h3 align="center">ITCS Student | Aspiring IT Professional</h3>
 
