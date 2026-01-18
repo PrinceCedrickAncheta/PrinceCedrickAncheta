@@ -55,7 +55,7 @@ I aim to continuously improve my technical abilities and, in the future, create 
 
 # Contact me in
 <p align="center"> <a href="https://www.facebook.com/share/17WxbRDdLR/" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/256/social-facebook-box-blue-icon.png" alt="Facebook" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/princecedrick_a?igsh=MWc5cnVleDRycmQxbg%3D%3D" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" alt="Instagram" /> </a> &nbsp;&nbsp; 
-<a href="https://discord.com/users/893694502760509561" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" /> </a> 
+<a href="none" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" /> </a> 
 &nbsp;&nbsp; <a href="mailto:princecedrickancheta169@gmail.com" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" /> </a>
   
 ---
